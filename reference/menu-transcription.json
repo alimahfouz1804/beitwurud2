@@ -1,0 +1,383 @@
+{
+  "currency": "USD",
+  "source": "Supplied menu.jpg and menu 2.jpg; transcription from printed café menus.",
+  "sourceInstagram": "@beit.wurud",
+  "categories": [
+    {
+      "id": "hot",
+      "name": "Hot",
+      "sourceImage": "menu.jpg",
+      "items": [
+        {
+          "id": "espresso",
+          "name": "ESPRESSO",
+          "price": 3.3,
+          "priceLabel": "$3.3"
+        },
+        {
+          "id": "double-espresso",
+          "name": "DOUBLE ESPRESSO",
+          "price": 4.4,
+          "priceLabel": "$4.4",
+          "sourcePrice": "$4,4"
+        },
+        {
+          "id": "cappuccino",
+          "name": "CAPPUCCINO",
+          "price": 5.0,
+          "priceLabel": "$5.0"
+        },
+        {
+          "id": "latte",
+          "name": "LATTE",
+          "price": 5.0,
+          "priceLabel": "$5.0"
+        },
+        {
+          "id": "flat-white",
+          "name": "FLAT WHITE",
+          "price": 4.4,
+          "priceLabel": "$4.4",
+          "sourcePrice": "$4,4"
+        },
+        {
+          "id": "cortado",
+          "name": "CORTADO",
+          "price": 4.4,
+          "priceLabel": "$4.4",
+          "sourcePrice": "$4,4"
+        },
+        {
+          "id": "spanish-latte",
+          "name": "SPANISH LATTE",
+          "price": 5.5,
+          "priceLabel": "$5.5"
+        },
+        {
+          "id": "raff",
+          "name": "RAFF",
+          "price": 6.0,
+          "priceLabel": "$6.0"
+        },
+        {
+          "id": "halawa-latte",
+          "name": "HALAWA LATTE",
+          "price": 5.5,
+          "priceLabel": "$5.5"
+        },
+        {
+          "id": "beit-wurud-latte",
+          "name": "BEIT WURUD LATTE",
+          "price": 5.5,
+          "priceLabel": "$5.5"
+        },
+        {
+          "id": "flavored-latte",
+          "name": "FLAVORED LATTE",
+          "price": 5.5,
+          "priceLabel": "$5.5"
+        },
+        {
+          "id": "v60",
+          "name": "V60",
+          "price": 5.5,
+          "priceLabel": "$5.5"
+        },
+        {
+          "id": "french-press",
+          "name": "FRENCH PRESS",
+          "price": 5.5,
+          "priceLabel": "$5.5"
+        },
+        {
+          "id": "americano",
+          "name": "AMERICANO",
+          "price": 4.0,
+          "priceLabel": "$4.0"
+        }
+      ]
+    },
+    {
+      "id": "frappe",
+      "name": "Frappe",
+      "sourceImage": "menu.jpg",
+      "items": [
+        {
+          "id": "white-mocca-frappe",
+          "name": "WHITE MOCCA FRAPPE",
+          "price": 5.5,
+          "priceLabel": "$5.5"
+        },
+        {
+          "id": "spanish-frappe",
+          "name": "SPANISH FRAPPE",
+          "price": 5.5,
+          "priceLabel": "$5.5"
+        },
+        {
+          "id": "banoffee-frappe",
+          "name": "BANOFFEE FRAPPE",
+          "price": 5.5,
+          "priceLabel": "$5.5"
+        },
+        {
+          "id": "beit-wurud-frappe",
+          "name": "BEIT WURUD FRAPPE",
+          "price": 5.5,
+          "priceLabel": "$5.5"
+        },
+        {
+          "id": "salted-caramel-frappe",
+          "name": "SALTED CARAMEL FRAPPE",
+          "price": 5.5,
+          "priceLabel": "$5.5"
+        },
+        {
+          "id": "caramel-frappe",
+          "name": "CARAMEL FRAPPE",
+          "price": 5.5,
+          "priceLabel": "$5.5"
+        }
+      ]
+    },
+    {
+      "id": "cold",
+      "name": "Cold",
+      "sourceImage": "menu.jpg",
+      "items": [
+        {
+          "id": "cold-brew",
+          "name": "COLD BREW",
+          "price": 5.0,
+          "priceLabel": "$5.0"
+        },
+        {
+          "id": "matcha",
+          "name": "MATCHA",
+          "price": 4.4,
+          "priceLabel": "$4.4"
+        },
+        {
+          "id": "iced-beit-wurud",
+          "name": "ICED BEIT WURUD",
+          "price": 5.5,
+          "priceLabel": "$5.5"
+        },
+        {
+          "id": "iced-latte",
+          "name": "ICED LATTE",
+          "price": 5.0,
+          "priceLabel": "$5.0"
+        },
+        {
+          "id": "spanish-home-made",
+          "name": "SPANISH HOME MADE",
+          "price": 5.5,
+          "priceLabel": "$5.5"
+        },
+        {
+          "id": "mazagran",
+          "name": "MAZAGRAN",
+          "price": 5.0,
+          "priceLabel": "$5.0"
+        },
+        {
+          "id": "flavored-iced-latte",
+          "name": "FLAVORED ICED LATTE",
+          "price": 5.5,
+          "priceLabel": "$5.5"
+        },
+        {
+          "id": "banoffee-caramel",
+          "name": "BANOFFEE CARAMEL",
+          "price": 5.5,
+          "priceLabel": "$5.5"
+        },
+        {
+          "id": "iced-shaken-mocca",
+          "name": "ICED SHAKEN MOCCA",
+          "price": 5.5,
+          "priceLabel": "$5.5"
+        },
+        {
+          "id": "creme-brulee",
+          "name": "CRÈME BRULÉE",
+          "price": 5.5,
+          "priceLabel": "$5.5"
+        }
+      ]
+    },
+    {
+      "id": "smoothies",
+      "name": "Smoothies",
+      "sourceImage": "menu.jpg",
+      "items": [
+        {
+          "id": "mango-smoothie",
+          "name": "MANGO SMOOTHIE",
+          "price": 5.5,
+          "priceLabel": "$5.5"
+        },
+        {
+          "id": "strawberry-smoothie",
+          "name": "STRAWBERRY SMOOTHIE",
+          "price": 5.5,
+          "priceLabel": "$5.5"
+        },
+        {
+          "id": "passion-smoothie",
+          "name": "PASSION SMOOTHIE",
+          "price": 5.5,
+          "priceLabel": "$5.5"
+        },
+        {
+          "id": "apple-smoothie",
+          "name": "APPLE SMOOTHIE",
+          "price": 5.5,
+          "priceLabel": "$5.5"
+        },
+        {
+          "id": "peach-smoothie",
+          "name": "PEACH SMOOTHIE",
+          "price": 5.5,
+          "priceLabel": "$5.5"
+        }
+      ]
+    },
+    {
+      "id": "iced-tea",
+      "name": "Iced Tea",
+      "sourceImage": "menu.jpg",
+      "items": [
+        {
+          "id": "mango-rose-ice-tea",
+          "name": "MANGO ROSE ICE TEA",
+          "price": 4.0,
+          "priceLabel": "$4.0"
+        }
+      ]
+    },
+    {
+      "id": "desserts",
+      "name": "Desserts",
+      "sourceImage": "menu 2.jpg",
+      "items": [
+        {
+          "id": "croissant-chocolate",
+          "name": "CROISSANT CHOCOLATE",
+          "price": 3.5,
+          "priceLabel": "$3.5"
+        },
+        {
+          "id": "croissant-cheese",
+          "name": "CROISSANT CHEESE",
+          "price": 3.5,
+          "priceLabel": "$3.5"
+        },
+        {
+          "id": "cinnamon-rolls",
+          "name": "CINNAMON ROLLS",
+          "price": 5.0,
+          "priceLabel": "$5.0"
+        },
+        {
+          "id": "profiteroles",
+          "name": "PROFITEROLES",
+          "price": 4.0,
+          "priceLabel": "$4.0"
+        },
+        {
+          "id": "cheese-cake",
+          "name": "CHEESE CAKE",
+          "price": 5.0,
+          "priceLabel": "$5.0"
+        },
+        {
+          "id": "brownies",
+          "name": "BROWNIES",
+          "price": 4.0,
+          "priceLabel": "$4.0"
+        },
+        {
+          "id": "cookies",
+          "name": "COOKIES",
+          "price": 4.0,
+          "priceLabel": "$4.0"
+        },
+        {
+          "id": "foundant",
+          "name": "FOUNDANT",
+          "price": 5.0,
+          "priceLabel": "$5.0"
+        },
+        {
+          "id": "carrot-cake",
+          "name": "CARROT CAKE",
+          "price": 4.0,
+          "priceLabel": "$4.0"
+        },
+        {
+          "id": "eclair",
+          "name": "ECLAIR",
+          "price": 4.0,
+          "priceLabel": "$4.0"
+        },
+        {
+          "id": "lemon-cake",
+          "name": "LEMON CAKE",
+          "price": 2.0,
+          "priceLabel": "$2.0"
+        },
+        {
+          "id": "marble-cake",
+          "name": "MARBLE CAKE",
+          "price": 2.0,
+          "priceLabel": "$2.0"
+        },
+        {
+          "id": "mini-cake",
+          "name": "MINI CAKE (PRE ORDER)",
+          "price": 15.0,
+          "priceLabel": "$15.0"
+        }
+      ]
+    },
+    {
+      "id": "sandwiches",
+      "name": "Sandwiches",
+      "sourceImage": "menu 2.jpg",
+      "items": [
+        {
+          "id": "halloumi-pesto",
+          "name": "HALLOUMI PESTO",
+          "price": 5.0,
+          "priceLabel": "$5.0"
+        },
+        {
+          "id": "turkey-and-cheese",
+          "name": "TURKEY AND CHEESE",
+          "price": 5.0,
+          "priceLabel": "$5.0"
+        },
+        {
+          "id": "chicken-junkless",
+          "name": "CHICKEN JUNKLESS",
+          "price": 6.0,
+          "priceLabel": "$6.0"
+        },
+        {
+          "id": "chicken-caesar-salad",
+          "name": "CHICKEN CAESAR SALAD",
+          "price": 7.0,
+          "priceLabel": "$7.0"
+        },
+        {
+          "id": "smokey-cheese-pasta-with-chicken",
+          "name": "SMOKEY CHEESE PASTA WITH CHICKEN",
+          "price": 8.0,
+          "priceLabel": "$8.0"
+        }
+      ]
+    }
+  ]
+}
